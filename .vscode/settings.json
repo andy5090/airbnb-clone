@@ -1,8 +1,8 @@
 {
   "python.pythonPath": "C:\\Users\\andy5\\.virtualenvs\\airbnb-clone-I_Zfetaj\\Scripts\\python.exe",
   "python.linting.pylintEnabled": false,
-  "python.linting.flake8Enabled": true,
   "python.linting.enabled": true,
   "python.formatting.provider": "black",
-  "python.linting.flake8Args": ["--max-line-length=88"]
+  "python.linting.flake8Args": ["--max-line-length=100"],
+  "python.linting.flake8Enabled": true
 }
